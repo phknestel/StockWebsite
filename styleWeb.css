@@ -1,0 +1,42 @@
+body {
+  font-family: Arial;
+  padding: 25px;
+  background-color: #21252a;
+  background-attachment: fixed;
+}
+
+.w3-color-main {
+background: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 33%,rgb(107,0,62) 100%);}
+
+.cardKNDL{
+  background: #282c34;
+  color: whitesmoke;
+}
+
+table {
+width: 80%;
+}
+
+.w3-black{
+  color: blue;
+  background: blue;
+}
+
+.slideshow {
+  position: fixed; /* Set the navbar to fixed position */
+  bottom: 0; /* Position the navbar at the bottom of the page */
+  width: 97%; /* nearly full width */
+}
+
+/* Main content */
+.main {
+  margin-bottom: 30px; /* Add a bottom margin to avoid content overlay */
+}
+
+.w3-dropdown-content, .w3-block, button, .w3-button, .w3-bar-item {
+  color: #282c34;
+}
+
+h1, h2, h3, h4, h5, p, a, li, td, th, .w3-bar-block, .w3-dropdown-click {
+  color: whitesmoke;
+}
